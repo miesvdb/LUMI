@@ -1,22 +1,13 @@
-# Lumi v4
+# Lumi — budgetstanden aanpassen + maaltijden naar boodschappen
 
-Deze versie past het ontwerp aan op het goedgekeurde Pantone-geïnspireerde kleurenpalet:
+Nieuw:
+- In Budget zijn **Nog uit te geven** en **Uitgaven** nu aanklikbaar.
+- Je kunt voor de gekozen maand direct het gewenste bedrag invullen.
+- Lumi maakt één zichtbare handmatige correctie en rekent alle gekoppelde totalen automatisch opnieuw uit.
+- De correctie verschijnt in de transactielijst, zodat duidelijk blijft waar een verschil vandaan komt.
+- Maaltijden in de weekplanner zijn aanklikbaar en openen de boodschappenlijst.
+- Vanuit een maaltijd zie je boven de boodschappenlijst voor welke maaltijd je bezig bent.
+- Boodschappen kunnen nu niet alleen toegevoegd/verwijderd, maar ook **bewerkt** worden.
+- De eerder aangepaste maaltijdkleuren en de herbouwde budget/spaardoel-logica blijven behouden.
 
-- Transparent Yellow — #F5EFC6
-- Sceptre Red — #4D0E12
-- Cerulean Blue — #A5BCD6
-- Potting Soil — #4A2E27
-- Java Brown — #231815
-
-Visuele wijzigingen:
-- warme crème achtergrond;
-- elegante Bodoni/Didot-achtige koppen;
-- Agenda in diep bordeauxrood;
-- Budget in donkerbruin;
-- Schoonmaak in Cerulean Blue;
-- Maaltijden en boodschappen in zachte crème/geeltinten;
-- rustigere kaarten, lijnen en knoppen;
-- budgetgrafiek aangepast aan hetzelfde kleurenpalet;
-- navigatie en formulieren volledig in de nieuwe stijl.
-
-Alle functies uit Lumi v3 blijven behouden.
+Cache-key: lumi-budget-meals-edit-1
